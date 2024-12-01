@@ -132,23 +132,23 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 
 ## **Modül 7: Değişiklik Günlüklerini (Changelog) Anlamak**
 
-- **Değişiklik Günlükleri Nedir?**  
-  - Projelerdeki rolleri  
-- **Değişiklik Günlüğü Yazma Yöntemleri**  
-  - Manuel ve otomatik yaklaşımlar  
-- **Değişiklik Günlüğü Oluşturma Komutları**  
-  - Etkili günlükler için araçlar ve şablonlar  
+- **Değişiklik Günlükleri Nedir?**
+  - [Projelerdeki rolleri](./07-changelog-gunlukleri-anlamak/07-01-degisiklik-gunlugu-nedir.md)
+- **Değişiklik Günlüğü Yazma Yöntemleri**
+  - [Manuel ve otomatik yaklaşımlar](./07-changelog-gunlukleri-anlamak/07-02-gunluk-yazma-manuel-otomatik-yaklasimlar.md)
+- **Değişiklik Günlüğü Oluşturma Komutları**
+  - [Etkili günlükler için araçlar ve şablonlar](./07-changelog-gunlukleri-anlamak/07-03-degisiklik-gunlugu-olusturma-komutlari.md)
 
 ---
 
 ## **Modül 8: GitHub’da Dosya Yönetimi**
 
 - **Dosya Ekleme ve Yönetme**  
-  - Depoya dosya ekleme  
-  - GitHub arayüzünde dosya düzenleme  
+  - Depoya dosya ekleme
+  - GitHub arayüzünde dosya düzenleme
 - **Değişikliklerin İzlenmesi ve Dosya Silme**  
-  - `git log` ve `git diff` kullanımı  
-  - Dosyaların silinmesi ve büyük dosya değişikliklerinin yönetimi  
+  - `git log` ve `git diff` kullanımı
+  - Dosyaların silinmesi ve büyük dosya değişikliklerinin yönetimi
 
 ---
 
