@@ -155,15 +155,15 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 9: GitHub Güvenliği**  
 
 - **Kullanıcı Rolleri ve Erişim Seviyeleri**  
-  - İzinler ve depo ayarları  
-- **Organizasyonlar ve Takımlar**  
-  - Takımların kurulumu ve izinlerin yönetimi  
-- **Kimlik Doğrulama ve Şifreleme**  
-  - SSH anahtarları ve 2FA kullanımı  
-- **Denetim ve Erişim Günlükleri**  
-  - Depo aktivitelerinin izlenmesi  
-- **Uygulama Güvenliği**  
-  - Dependabot ve güvenlik açıkları taraması  
+  - [İzinler ve depo ayarları](./09-github-guvenligi/09-01-izinler-depo-ayarlari.md)
+- **Organizasyonlar ve Takımlar**
+  - [Takımların kurulumu ve izinlerin yönetimi](./09-github-guvenligi/09-02-takimlarin-kurulumu-izinlerin-yonetimi.md)
+- **Kimlik Doğrulama ve Şifreleme**
+  - [SSH anahtarları ve 2FA kullanımı](./09-github-guvenligi/09-03-ssh-2fa-kullanim.md)
+- **Denetim ve Erişim Günlükleri**
+  -[ Depo aktivitelerinin izlenmesi](./09-github-guvenligi/09-04-depo-aktivitelerinin-izlenmesi.md)
+- **Uygulama Güvenliği**
+  - [Dependabot ve güvenlik açıkları taraması](./09-github-guvenligi/09-05-depandabot-guvenlik-aciklarinin-taranmasi.md)
 
 ---
 
