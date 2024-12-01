@@ -170,10 +170,10 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 10: GitHub Otomasyonu**  
 
 - **GitHub Actions’a Giriş**  
-  - İş akışlarının otomasyonu  
+  - [İş akışlarının otomasyonu](./10-github-otomasyonu/10-01-is-akislari-otomasyonu.md)
 - **Otomatik İş Akışları Oluşturma**  
-  - `.yml` dosyaları yazma  
-  - CI/CD pipeline örnekleri  
+  - [`.yml` dosyaları yazma](./10-github-otomasyonu/10-02-yaml-yazma.md)
+  - CI/CD pipeline örnekleri
 
 ---
 
