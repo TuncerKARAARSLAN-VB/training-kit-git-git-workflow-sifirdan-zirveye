@@ -107,9 +107,9 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 5: Depo Forklama**
 
 - **Forklama Nedir ve Nasıl Yapılır?**  
-  - Depoyu fork’lama ve klonlama adımları  
+  - [Depoyu fork’lama ve klonlama adımları](./05-depo-forklama/05-01-depo-forklama-nedir.md)
 - **Fork’u Güncel Tutma**  
-  - Orijinal depo ile senkronizasyon  
+  - [Orijinal depo ile senkronizasyon](./05-depo-forklama/05-02-orjinal-depo-ile-senkronizasyon.md)
 
 ---
 
