@@ -144,11 +144,11 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 8: GitHub’da Dosya Yönetimi**
 
 - **Dosya Ekleme ve Yönetme**  
-  - Depoya dosya ekleme
-  - GitHub arayüzünde dosya düzenleme
+  - [Depoya dosya ekleme](./08-github-dosya-yonetimi/08-01-depoya-dosya-ekleme.md)
+  - [GitHub arayüzünde dosya düzenleme](./08-github-dosya-yonetimi/08-02-github-arayuzunde-dosya-duzenleme.md)
 - **Değişikliklerin İzlenmesi ve Dosya Silme**  
-  - `git log` ve `git diff` kullanımı
-  - Dosyaların silinmesi ve büyük dosya değişikliklerinin yönetimi
+  - [`git log` ve `git diff` kullanımı](./08-github-dosya-yonetimi/08-03-git-log-git-diff.md)
+  - [Dosyaların silinmesi ve büyük dosya değişikliklerinin yönetimi](./08-github-dosya-yonetimi/08-04-dosyalarin-silinmesi-degisikli-yonetimi.md)
 
 ---
 
@@ -174,8 +174,6 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 - **Otomatik İş Akışları Oluşturma**  
   - `.yml` dosyaları yazma  
   - CI/CD pipeline örnekleri  
-
----
 
 ---
 
