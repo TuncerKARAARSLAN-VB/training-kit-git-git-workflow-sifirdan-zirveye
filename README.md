@@ -98,9 +98,9 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 4: GitHub ile Sosyal Ağ Kullanımı**
 
 - **GitHub’ı Sosyal Ağ Olarak Kullanmak**  
-  - Takipçiler, yıldızlar ve katkılar  
+  - [Takipçiler, yıldızlar ve katkılar](./04-github-sosyal-ag-kullanimi/04-01-takipciler-yildizlar-katkilar.md)
 - **Ekip Çalışması**  
-  - Takım iş birliği için en iyi uygulamalar  
+  - [Takım iş birliği için en iyi uygulamalar](./04-github-sosyal-ag-kullanimi/04-02-takim-isbirligi-en-iyi-uygulamalar.md)
 
 ---
 
