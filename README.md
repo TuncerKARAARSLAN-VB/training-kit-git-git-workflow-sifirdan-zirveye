@@ -116,17 +116,17 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 ## **Modül 6: Gelişmiş Git Dallandırma Araçları**  
 
 - **Dal (Branch) ve Birleştirme (Merge) Temelleri**  
-  - Dallandırmanın kullanım senaryoları  
-  - Birleştirme yöntemleri: fast-forward, 3-yönlü birleştirme, rebasing  
+  - [Dallandırmanın kullanım senaryoları](./06-gelismis-git-dallandirma/06-01-dallandirma-nedir.md)
+  - [Birleştirme yöntemleri: fast-forward, 3-yönlü birleştirme, rebasing](./06-gelismis-git-dallandirma/06-02-birlestirme-yontemleri-rebasing.md)
 - **İleri Seviye Araçlar ve Teknikler**  
-  - Depo arşivleme  
-  - Son dalların görüntülenmesi  
-  - Daha açıklayıcı dal açıklamaları oluşturma  
-  - Yama setleri (patch sets) oluşturma  
-  - Commit’leri bölme  
-  - Commit’leri birleştirme (squashing)  
-  - Commit mesajı etiketleri (örn. "fix", "feat", "chore")  
-  - Commit’lerin sıralı olarak test edilmesi  
+  - [Depo arşivleme](./06-gelismis-git-dallandirma/06-03-depo-arsivleme.md)
+  - [Son dalların görüntülenmesi](./06-gelismis-git-dallandirma/06-04-son-dallarin-goruntulenmesi.md)
+  - [Daha açıklayıcı dal açıklamaları oluşturma](./06-gelismis-git-dallandirma/06-05-daha-aciklayici-dal-aciklamalarini-olusturma.md)
+  - [Yama setleri (patch sets) oluşturma](./06-gelismis-git-dallandirma/06-07-yama-setleri-olusturma.md)
+  - [Commit’leri bölme](./06-gelismis-git-dallandirma/06-08-commitleri-bolme.md)
+  - [Commit’leri birleştirme (squashing)](./06-gelismis-git-dallandirma/06-09-commitleri-birlestirme.md)
+  - [Commit mesajı etiketleri (örn. "fix", "feat", "chore")](./06-gelismis-git-dallandirma/06-10-commit-mesaj-etiketleri.md)
+  - [Commit’lerin sıralı olarak test edilmesi](./06-gelismis-git-dallandirma/06-11-commitlerin-sirali-test-edilmesi.md)
 
 ---
 
