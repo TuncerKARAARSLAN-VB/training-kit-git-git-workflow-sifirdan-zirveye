@@ -161,7 +161,7 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
 - **Kimlik Doğrulama ve Şifreleme**
   - [SSH anahtarları ve 2FA kullanımı](./09-github-guvenligi/09-03-ssh-2fa-kullanim.md)
 - **Denetim ve Erişim Günlükleri**
-  -[ Depo aktivitelerinin izlenmesi](./09-github-guvenligi/09-04-depo-aktivitelerinin-izlenmesi.md)
+  -[Depo aktivitelerinin izlenmesi](./09-github-guvenligi/09-04-depo-aktivitelerinin-izlenmesi.md)
 - **Uygulama Güvenliği**
   - [Dependabot ve güvenlik açıkları taraması](./09-github-guvenligi/09-05-depandabot-guvenlik-aciklarinin-taranmasi.md)
 
@@ -173,7 +173,7 @@ Eğitimimiz, Docker’ın temellerinden başlayarak ileri düzey uygulamalara ka
   - [İş akışlarının otomasyonu](./10-github-otomasyonu/10-01-is-akislari-otomasyonu.md)
 - **Otomatik İş Akışları Oluşturma**  
   - [`.yml` dosyaları yazma](./10-github-otomasyonu/10-02-yaml-yazma.md)
-  - CI/CD pipeline örnekleri
+  - [CI/CD pipeline örnekleri](./10-github-otomasyonu/10-03-ci-cd-ornekleri.md)
 
 ---
 
